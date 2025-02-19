@@ -1,0 +1,23 @@
+For Requirements pip install -r requirements.txt
+numpy
+pandas
+seaborn
+matplotlib
+scikit-learn
+joblib
+tensorflow
+pathlib
+keras
+pillow
+transformers
+google-colab
+opencv-python-headless
+torch
+gtts
+playsound
+deep-translator
+ultralytics
+google-generativeai
+nltk
+opencv-python
+
